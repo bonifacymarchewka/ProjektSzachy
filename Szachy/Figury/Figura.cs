@@ -42,8 +42,8 @@ namespace Szachy.Figury
             get { return pozycja; }
             set
             {
-                PozycjaZmieniona(pozycja); 
-                pozycja = value; 
+                PozycjaZmieniona(pozycja);
+                pozycja = value;
             }
         }
 

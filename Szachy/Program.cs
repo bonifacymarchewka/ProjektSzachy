@@ -18,8 +18,8 @@ namespace Szachy
         private static void Main(string[] args)
         {
             var szachownica = new Szachownica();
-            
-            var figura = szachownica.PobierzFigure(new Pozycja(2,1));
+
+            var figura = szachownica.PobierzFigure(new Pozycja(2, 1));
 
             Console.WriteLine(figura.ToString());
             Console.WriteLine(((Pionek)figura).ToString()); // Ta sama metoda ToString zwraca co innego w zaleznosci do czego rzutujemy.

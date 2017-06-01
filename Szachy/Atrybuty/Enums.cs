@@ -8,7 +8,7 @@
         /// <summary>
         /// bialy.
         /// </summary>
-        Bialy, 
+        Bialy,
 
         /// <summary>
         /// czarny.

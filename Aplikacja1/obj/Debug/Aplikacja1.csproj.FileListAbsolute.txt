@@ -1,0 +1,15 @@
+C:\Users\studentwsb\Downloads\repo1-master\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+C:\Users\studentwsb\Downloads\repo1-master\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe
+C:\Users\studentwsb\Downloads\repo1-master\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.pdb
+C:\Users\studentwsb\Downloads\repo1-master\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csprojResolveAssemblyReference.cache
+C:\Users\studentwsb\Downloads\repo1-master\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.exe
+C:\Users\studentwsb\Downloads\repo1-master\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.pdb
+D:\_DK\GitHub\Others\repo1-master\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+D:\_DK\GitHub\Others\repo1-master\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe
+D:\_DK\GitHub\Others\repo1-master\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.pdb
+D:\_DK\GitHub\Others\repo1-master\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csprojResolveAssemblyReference.cache
+D:\_DK\GitHub\Others\repo1-master\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.exe
+D:\_DK\GitHub\Others\repo1-master\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.pdb
+C:\Users\karol\Desktop\projektowanie\Nowy folder\Aplikacja1-dk\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+C:\Users\karol\Desktop\projektowanie\Nowy folder\Aplikacja1-dk\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.exe
+C:\Users\karol\Desktop\projektowanie\Nowy folder\Aplikacja1-dk\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.pdb
